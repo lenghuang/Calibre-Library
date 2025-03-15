@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4487203-f21b-4fc9-b9cf-b9664510a2e5</dc:identifier>
+        <dc:title>Why We Get Fat</dc:title>
+        <dc:creator opf:file-as="Gary" opf:role="aut">Gary Taubes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-27T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;An eye-opening, myth-shattering examination of what makes us fat, from acclaimed science writer Gary Taubes.&lt;br&gt;&lt;br&gt;In his &lt;i&gt;New York Times&lt;/i&gt; best seller, &lt;i&gt;Good Calories, Bad Calories,&lt;/i&gt; Taubes argued that our diet's overemphasis on certain kinds of carbohydrates--&lt;i&gt;not&lt;/i&gt; fats and &lt;i&gt;not&lt;/i&gt; simply excess calories--has led directly to the obesity epidemic we face today. The result of thorough research, keen insight, and unassailable common sense, &lt;i&gt;Good Calories, Bad Calories&lt;/i&gt; immediately stirred controversy and acclaim among academics, journalists, and writers alike. Michael Pollan heralded it as "a vitally important book, destined to change the way we think about food." &lt;br&gt;&lt;br&gt;Building upon this critical work in &lt;i&gt;Good Calories, Bad Calories&lt;/i&gt; and presenting fresh evidence for his claim, Taubes now revisits the urgent question of what's making us fat--and how we can change--in this exciting new book. Persuasive, straightforward, and practical, &lt;i&gt;Why We Get...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307595515</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-13T04:19:16.028000+00:00"/>
+        <meta name="calibre:title_sort" content="Why We Get Fat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

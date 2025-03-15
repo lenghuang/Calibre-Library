@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0273a737-6513-484a-ac89-758f7fe50a4e</dc:identifier>
+        <dc:title>Digital Minimalism: Choosing a Focused Life in a Noisy World</dc:title>
+        <dc:creator opf:file-as="Newport, Cal" opf:role="aut">Cal Newport</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-05T04:39:18+00:00</dc:date>
+        <dc:description>&lt;p&gt;A New York Times, Wall Street Journal, Publishers Weekly, and USA Today bestseller"Newport is making a bid to be the Marie Kondo of technology: someone with an actual plan for helping you realize the digital pursuits that do, and don't, bring value to your life.&lt;/p&gt;
+
+&lt;p&gt;"--Ezra Klein, VoxMinimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.&lt;/p&gt;
+
+&lt;p&gt;In this timely and enlightening book, the bestselling author of Deep Work introduces a philosophy for technology use that has already improved countless lives.&lt;/p&gt;
+
+&lt;p&gt;Digital minimalists are all around us. They're the calm, happy people who can hold long conversations without furtive glances at their phones. They can get lost in a good book, a woodworking project, or a leisurely morning run. They can have fun with friends and family without the obsessive urge to document the experience. They stay informed about the news of the day, but don't feel overwhelmed by it. They don't experience "fear of missing out" because they already know which activities provide them meaning and satisfaction.&lt;/p&gt;
+
+&lt;p&gt;Now, Newport gives us a name for this quiet movement, and makes a persuasive case for its urgency in our tech-saturated world. Common sense tips, like turning off notifications, or occasional rituals like observing a digital sabbath, don't go far enough in helping us take back control of our technological lives, and attempts to unplug completely are complicated by the demands of family, friends and work. What we need instead is a thoughtful method to decide what tools to use, for what purposes, and under what conditions.&lt;/p&gt;
+
+&lt;p&gt;Drawing on a diverse array of real-life examples, from Amish farmers to harried parents to Silicon Valley programmers, Newport identifies the common practices of digital minimalists and the ideas that underpin them. He shows how digital minimalists are rethinking their relationship to social media, rediscovering the pleasures of the offline world, and reconnecting with their inner selves through regular periods of solitude. He then shares strategies for integrating these practices into your life, starting with a thirty-day "digital declutter" process that has already helped thousands feel less overwhelmed and more in control.&lt;/p&gt;
+
+&lt;p&gt;Technology is intrinsically neither good nor bad. The key is using it to support your goals and values, rather than letting it use you. This book shows the way.&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525536543</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uS9eDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-13T04:39:05+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Minimalism: Choosing a Focused Life in a Noisy World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

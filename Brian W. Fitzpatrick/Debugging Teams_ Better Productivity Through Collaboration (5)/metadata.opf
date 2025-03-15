@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86487a32-2c4a-4bfa-929c-bfa2f36f8e5e</dc:identifier>
+        <dc:title>Debugging Teams: Better Productivity Through Collaboration</dc:title>
+        <dc:creator opf:file-as="Fitzpatrick, Brian W. &amp; Collins-Sussman, Ben" opf:role="aut">Brian W. Fitzpatrick</dc:creator>
+        <dc:creator opf:file-as="Fitzpatrick, Brian W. &amp; Collins-Sussman, Ben" opf:role="aut">Ben Collins-Sussman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-13T04:09:19.084522+00:00</dc:date>
+        <dc:description>&lt;p&gt;In the course of their 20+-year engineering careers, authors Brian Fitzpatrick and Ben Collins-Sussman have picked up a treasure trove of wisdom and anecdotes about how successful teams work together. Their conclusion? Even among people who have spent decades learning the technical side of their jobs, most haven’t really focused on the human component. Learning to collaborate is just as important to success. If you invest in the "soft skills" of your job, you can have a much greater impact for the same amount of effort. The authors share their insights on how to lead a team effectively, navigate an organization, and build a healthy relationship with the users of your software. This is valuable information from two respected software engineers whose popular series of talks—including "Working with Poisonous People"—has attracted hundreds of thousands of followers.&lt;/p&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">tJq9CgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491932506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Project Management</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-13T04:01:41.550065+00:00"/>
+        <meta name="calibre:title_sort" content="Debugging Teams: Better Productivity Through Collaboration"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

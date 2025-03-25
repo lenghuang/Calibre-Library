@@ -8,11 +8,11 @@
         <dc:creator opf:file-as="Vandehei, Jim &amp; Allen, Mike &amp; Schwartz, Roy" opf:role="aut">Mike Allen</dc:creator>
         <dc:creator opf:file-as="Vandehei, Jim &amp; Allen, Mike &amp; Schwartz, Roy" opf:role="aut">Roy Schwartz</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2022-09-20T04:19:51.697633+00:00</dc:date>
+        <dc:date>2022-09-20T04:19:51+00:00</dc:date>
         <dc:description>&lt;p&gt;Brevity is confidence. Length is fear. This is the guiding principle of Smart Brevity, a communication formula built by Axios journalists to prioritize essential news and information, explain its impact and deliver it in a concise and visual format. Now, the co-founders of Axios have created an essential guide for communicating effectively and efficiently using Smart Brevity—think Strunk and White’s Elements of Style for the digital age.   In SMART BREVITY: The Power of Saying More with Less, Axios co-founders Jim VandeHei, Mike Allen, and Roy Schwartz teach readers how to say more with less in virtually any format. They also share communications lessons learned from their decades of experience in media, business and communications.&lt;/p&gt;</dc:description>
         <dc:publisher>Workman Publishing Company</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">KGthEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781523520121</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KGthEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Language Arts &amp; Disciplines</dc:subject>
         <dc:subject>General</dc:subject>
@@ -23,7 +23,7 @@
         <dc:subject>Self-Help</dc:subject>
         <dc:subject>Writing</dc:subject>
         <dc:subject>Skills</dc:subject>
-        <meta name="calibre:timestamp" content="2025-03-13T04:18:59.880461+00:00"/>
+        <meta name="calibre:timestamp" content="2025-03-13T04:18:59+00:00"/>
         <meta name="calibre:title_sort" content="Smart Brevity: The Power of Saying More With Less"/>
     </metadata>
     <guide>

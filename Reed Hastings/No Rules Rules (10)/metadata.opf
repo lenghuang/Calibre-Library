@@ -7,11 +7,25 @@
         <dc:creator opf:file-as="Hastings, Reed &amp; Meyer, Erin" opf:role="aut">Reed Hastings</dc:creator>
         <dc:creator opf:file-as="Hastings, Reed &amp; Meyer, Erin" opf:role="aut">Erin Meyer</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-09-08T04:00:00+00:00</dc:date>
-        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:date>2020-09-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="synopsis-description" translate="no"&gt;&lt;p&gt;**The &lt;em&gt;New York Times&lt;/em&gt; bestseller&lt;/p&gt;
+&lt;p&gt;Shortlisted for the 2020 Financial Times &amp;amp; McKinsey Business Book of the Year&lt;/p&gt;
+&lt;p&gt;Netflix cofounder Reed Hastings reveals for the first time the unorthodox culture behind one of the world's most innovative, imaginative, and successful companies**&lt;/p&gt;
+&lt;p&gt;There has never before been a company like Netflix. It has led nothing short of a revolution in the entertainment industries, generating billions of dollars in annual revenue while capturing the imaginations of hundreds of millions of people in over 190 countries. But to reach these great heights, Netflix, which launched in 1998 as an online DVD rental service, has had to reinvent itself over and over again. This type of unprecedented flexibility would have been impossible without the counterintuitive and radical management principles that cofounder Reed Hastings established from the very beginning. Hastings rejected the conventional wisdom under which other companies operate and defied tradition to instead build a culture focused on freedom and responsibility, one that has allowed Netflix to adapt and innovate as the needs of its members and the world have simultaneously transformed.&lt;/p&gt;
+&lt;p&gt;Hastings set new standards, valuing people over process, emphasizing innovation over efficiency, and giving employees context, not controls. At Netflix, there are no vacation or expense policies. At Netflix, adequate performance gets a generous severance, and hard work is irrelevant. At Netflix, you don&amp;#8217;t try to please your boss, you give candid feedback instead. At Netflix, employees don&amp;#8217;t need approval, and the company pays top of market. When Hastings and his team first devised these unorthodox principles, the implications were unknown and untested. But in just a short period, their methods led to unparalleled speed and boldness, as Netflix quickly became one of the most loved brands in the world.&lt;/p&gt;
+&lt;p&gt;Here for the first time, Hastings and Erin Meyer, bestselling author of &lt;em&gt;The Culture Map&lt;/em&gt; and one of the world&amp;#8217;s most influential business thinkers, dive deep into the controversial ideologies at the heart of the Netflix psyche, which have generated results that are the envy of the business world. Drawing on hundreds of interviews with current and past Netflix employees from around the globe and never-before-told stories of trial and error from Hastings&amp;#8217;s own career, &lt;em&gt;No Rules Rules&lt;/em&gt; is the fascinating and untold account of the philosophy behind one of the world&amp;#8217;s most innovative, imaginative, and successful companies.&lt;/p&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">0913cb10-1f59-4af1-9fc8-33db56e3598a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781984877871</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1u6_DwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2025-03-13T05:52:07.100111+00:00"/>
+        <dc:subject>Industries &amp; Professions</dc:subject>
+        <dc:subject>Business &amp; Finance</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Management &amp; Leadership</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-13T05:52:07+00:00"/>
         <meta name="calibre:title_sort" content="No Rules Rules"/>
     </metadata>
     <guide>

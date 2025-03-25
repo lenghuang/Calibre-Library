@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Fitzpatrick, Brian W. &amp; Collins-Sussman, Ben" opf:role="aut">Brian W. Fitzpatrick</dc:creator>
         <dc:creator opf:file-as="Fitzpatrick, Brian W. &amp; Collins-Sussman, Ben" opf:role="aut">Ben Collins-Sussman</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2015-10-13T04:09:19.084522+00:00</dc:date>
+        <dc:date>2015-10-13T04:09:19+00:00</dc:date>
         <dc:description>&lt;p&gt;In the course of their 20+-year engineering careers, authors Brian Fitzpatrick and Ben Collins-Sussman have picked up a treasure trove of wisdom and anecdotes about how successful teams work together. Their conclusion? Even among people who have spent decades learning the technical side of their jobs, most haven’t really focused on the human component. Learning to collaborate is just as important to success. If you invest in the "soft skills" of your job, you can have a much greater impact for the same amount of effort. The authors share their insights on how to lead a team effectively, navigate an organization, and build a healthy relationship with the users of your software. This is valuable information from two respected software engineers whose popular series of talks—including "Working with Poisonous People"—has attracted hundreds of thousands of followers.&lt;/p&gt;</dc:description>
         <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">tJq9CgAAQBAJ</dc:identifier>
@@ -20,7 +20,7 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Software Development &amp; Engineering</dc:subject>
         <dc:subject>Industries</dc:subject>
-        <meta name="calibre:timestamp" content="2025-03-13T04:01:41.550065+00:00"/>
+        <meta name="calibre:timestamp" content="2025-03-13T04:01:41+00:00"/>
         <meta name="calibre:title_sort" content="Debugging Teams: Better Productivity Through Collaboration"/>
     </metadata>
     <guide>

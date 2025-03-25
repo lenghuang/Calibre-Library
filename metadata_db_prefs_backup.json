@@ -49,7 +49,7 @@
       "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
     ]
   ],
-  "last_expired_trash_at": 1741845171.4016068,
+  "last_expired_trash_at": 1742787942.2804759,
   "library_view books view state": {
     "column_alignment": {
       "pubdate": "center",
@@ -674,5 +674,6 @@
       ],
       "table": null
     }
-  }
+  },
+  "news_to_be_synced": []
 }

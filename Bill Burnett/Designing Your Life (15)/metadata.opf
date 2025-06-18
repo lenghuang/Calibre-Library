@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1904df46-050b-4939-a060-23ee7cbd2f99</dc:identifier>
+        <dc:title>Designing Your Life</dc:title>
+        <dc:creator opf:file-as="Burnett, Bill &amp; Evans, Dave" opf:role="aut">Bill Burnett</dc:creator>
+        <dc:creator opf:file-as="Burnett, Bill &amp; Evans, Dave" opf:role="aut">Dave Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;#1 NEW YORK TIMES BEST SELLER • At last, a book that shows you how to build—design—a life you can thrive in, at any age or stage • “Life has questions. They have answers.” —The New York TimesDesigners create worlds and solve problems using design thinking. Look around your office or home—at the tablet or smartphone you may be holding or the chair you are sitting in. Everything in our lives was designed by someone. And every design starts with a problem that a designer or team of designers seeks to solve. In this book, Bill Burnett and Dave Evans show us how design thinking can help us create a life that is both meaningful and fulfilling, regardless of who or where we are, what we do or have done for a living, or how young or old we are. The same design thinking responsible for amazing technology, products, and spaces can be used to design and build your career and your life, a life of fulfillment and joy, constantly creative and productive, one that always holds the possibility of surprise.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">f3496970-4ed4-4dc5-8feb-eeacde767821</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781101875339</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RBeICwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>Job Hunting</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-18T03:03:36.261831+00:00"/>
+        <meta name="calibre:title_sort" content="Designing Your Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

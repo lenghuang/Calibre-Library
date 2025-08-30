@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c6b6017-9033-4304-aeef-8df0b71a873f</dc:identifier>
+        <dc:title>Architecture Patterns with Python</dc:title>
+        <dc:creator opf:file-as="Gregory, Bob &amp; Percival, Harry" opf:role="aut">Bob Gregory</dc:creator>
+        <dc:creator opf:file-as="Gregory, Bob &amp; Percival, Harry" opf:role="aut">Harry Percival</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-12T04:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;As Python continues to grow in popularity, projects are becoming larger and more complex. Many Python developers are now taking an interest in high-level software design patterns such as hexagonal/clean architecture, event-driven architecture, and the strategic patterns prescribed by domain-driven design (DDD). But translating those patterns into Python isn’t always straightforward.&lt;/p&gt;&lt;p&gt;With this hands-on guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity—and get the most value out of their test suites.&lt;/p&gt;&lt;p&gt;Each pattern is illustrated with concrete examples in beautiful, idiomatic Python, avoiding some of the verbosity of Java and C# syntax. Patterns include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dependency inversion and its links to ports and adapters (hexagonal/clean architecture)&lt;/li&gt;&lt;li&gt;Domain-driven design’s distinction between entities, value objects, and aggregates&lt;/li&gt;&lt;li&gt;Repository and Unit of Work patterns for persistent storage&lt;/li&gt;&lt;li&gt;Events, commands, and the message bus&lt;/li&gt;&lt;li&gt;Command-query responsibility segregation (CQRS)&lt;/li&gt;&lt;li&gt;Event-driven architecture and reactive microservices&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492052203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-30T01:05:07.271915+00:00"/>
+        <meta name="calibre:title_sort" content="Architecture Patterns with Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

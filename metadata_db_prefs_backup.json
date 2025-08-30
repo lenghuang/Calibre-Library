@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      15,
+      "Designing Your Life"
+    ],
+    [
       14,
       "System Design Interview \u2013 An insider's guide"
     ],
@@ -57,7 +61,7 @@
       "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
     ]
   ],
-  "last_expired_trash_at": 1745728451.724263,
+  "last_expired_trash_at": 1752442166.767339,
   "library_view books view state": {
     "column_alignment": {
       "pubdate": "center",
@@ -683,5 +687,27 @@
       "table": null
     }
   },
-  "news_to_be_synced": []
+  "news_to_be_synced": [],
+  "namespaced:KoboUtilitiesPlugin:settings": {
+    "SchemaVersion": 0.1,
+    "profiles": {
+      "Default": {
+        "customColumnOptions": {
+          "currentReadingLocationColumn": "",
+          "lastReadColumn": "",
+          "percentReadColumn": "",
+          "ratingColumn": "rating",
+          "restOfBookEstimateColumn": "",
+          "timeSpentReadingColumn": ""
+        },
+        "forDevice": null,
+        "storeOptionsStore": {
+          "doNotStoreIfReopened": false,
+          "promptToStore": true,
+          "storeIfMoreRecent": false,
+          "storeOnConnect": false
+        }
+      }
+    }
+  }
 }

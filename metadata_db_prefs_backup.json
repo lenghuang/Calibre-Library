@@ -61,7 +61,7 @@
       "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
     ]
   ],
-  "last_expired_trash_at": 1752442166.767339,
+  "last_expired_trash_at": 1756775035.219109,
   "library_view books view state": {
     "column_alignment": {
       "pubdate": "center",
@@ -689,7 +689,7 @@
   },
   "news_to_be_synced": [],
   "namespaced:KoboUtilitiesPlugin:settings": {
-    "SchemaVersion": 0.1,
+    "SchemaVersion": 1,
     "profiles": {
       "Default": {
         "customColumnOptions": {
@@ -706,8 +706,14 @@
           "promptToStore": true,
           "storeIfMoreRecent": false,
           "storeOnConnect": false
-        }
+        },
+        "profileName": "Default"
       }
-    }
+    },
+    "readingPositionChangesStore": {
+      "selectBooksInLibrary": false,
+      "updeateGoodreadsProgress": false
+    },
+    "shelvesColumn": null
   }
 }

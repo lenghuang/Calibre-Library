@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5a037b2-83fc-4816-a442-a85f1abfaad5</dc:identifier>
+        <dc:title>On the Edge</dc:title>
+        <dc:creator opf:file-as="Silver, Nate" opf:role="aut">Nate Silver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-13T00:00:00+00:00</dc:date>
+        <dc:description>**The Instant New York Times Bestseller
+“Engaging and entertaining… a glimpse of the economy of the future.” —Tim Wu, New York Times Book Review
+From the New York Times bestselling author of The Signal and the Noise, the definitive guide to our era of risk—and the players raising the stakes**
+In a world wired for chaos, these players are rewriting the rules. High-stakes, high-IQ, and often high on their own mythologies, they are driving the next era of ﬁnance, tech, and politics. But what happens when their bets go too far?
+Nate Silver’s On the Edge reveals the hidden world of the River. It is the domain of gamblers and like-minded folks who move markets and change the fabric of society: poker legends, hedge fund titans, crypto speculators, and even those willing to bet the world’s future on AI. They are obsessives with a deep hunger for volatility and an unrelenting desire to exploit every edge over the rest of us. Silver embeds with them, com-peting in the World Series of Poker, visiting Sam Bankman-Fried’s FTX compound, and attending wild Miami yacht parties at the height of the crypto bubble.
+On the Edge is a front-row seat to a new world order built on risk, math, and ambition—a gripping ride through the minds shaping your future, whether you like it or not.</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780593491638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Planning &amp; Forecasting</dc:subject>
+        <dc:subject>Science &amp; Nature</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Business &amp; Finance</dc:subject>
+        <dc:subject>Recreations &amp; Games</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-28T01:56:57.438959+00:00"/>
+        <meta name="calibre:title_sort" content="On the Edge"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

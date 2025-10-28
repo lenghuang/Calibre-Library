@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      20,
+      "Principles of Building AI Agents"
+    ],
+    [
       15,
       "Designing Your Life"
     ],
@@ -61,7 +65,7 @@
       "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
     ]
   ],
-  "last_expired_trash_at": 1756775035.219109,
+  "last_expired_trash_at": 1760496773.243988,
   "library_view books view state": {
     "column_alignment": {
       "pubdate": "center",
@@ -701,13 +705,13 @@
           "timeSpentReadingColumn": ""
         },
         "forDevice": null,
+        "profileName": "Default",
         "storeOptionsStore": {
           "doNotStoreIfReopened": false,
           "promptToStore": true,
           "storeIfMoreRecent": false,
           "storeOnConnect": false
-        },
-        "profileName": "Default"
+        }
       }
     },
     "readingPositionChangesStore": {

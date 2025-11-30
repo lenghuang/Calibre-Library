@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2c4e390-f1bb-465e-9805-8604698a15af</dc:identifier>
+        <dc:title>Separation of Church and Hate</dc:title>
+        <dc:creator opf:file-as="Fugelsang, John" opf:role="aut">John Fugelsang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-09-09T00:00:00+00:00</dc:date>
+        <dc:description>NEW YORK TIMES BESTSELLER * In the spirit of George Carlin and Christopher Hitchens, the son of a former Catholic nun and a Franciscan brother delivers a deeply irreverent and biblically correct takedown of far-right Christian hatred—a book for believers, atheists, agnostics, and anyone who’ll ever have to deal with a Christian nationalist.
+For more than two centuries, the United States Constitution has given us the right to a society where church and state exist independently. But Christianity has been hijacked by far-right groups and politicians who seek to impose their narrow views on government, often to justify oppressive and unequal policies. The extremists who weaponize the Bible for earthly power aren’t actually on the side of Jesus—and historically they never have been. How do we fight back against those acting—literally—in bad faith?
+Comedian and broadcaster John Fugelsang finally offers the answers. In this informative, perspective-shifting book, Fugelsang takes readers through common fundamentalist arguments on abortion, immigration, LGBTQ rights, and more—exposing their hypocrisy and inaccuracy through scripture, common sense, and deeply inappropriate humor. It offers practical tips on how to debate your loved one, coworker, or neighbor on the issues that divide us using that Bible they claim to follow.
+But Fugelsang’s message is about more than just taking down hypocrites. It’s about fighting for the love, mercy, and service that are supposed to make up the heart of Christianity. Told with Fugelsang’s trademark blend of radical honesty, comedy, and deep political and religious knowledge, Separation of Church and Hate is the book every American needs today. It’s a rallying cry for compassion and clarity for anyone of any faith who’s sick of religion being used as a cloaking device for hate.</dc:description>
+        <dc:publisher>Avid Reader Press / Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781668066911</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Church &amp; State</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Social &amp; Cultural Studies</dc:subject>
+        <dc:subject>Criticism &amp; Interpretation</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Bible &amp; Bible Studies</dc:subject>
+        <dc:subject>Religion &amp; Spirituality</dc:subject>
+        <dc:subject>Church</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-30T04:42:43.062994+00:00"/>
+        <meta name="calibre:title_sort" content="Separation of Church and Hate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

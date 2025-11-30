@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7191823c-c535-4320-a827-2263424b7dd6</dc:identifier>
+        <dc:title>AI Engineering</dc:title>
+        <dc:creator opf:file-as="Huyen, Chip" opf:role="aut">Chip Huyen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-04T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Recent breakthroughs in AI have not only increased demand for AI products, they've also lowered the barriers to entry for those who want to build AI products. The model-as-a-service approach has transformed AI from an esoteric discipline into a powerful development tool that anyone can use. Everyone, including those with minimal or no prior AI experience, can now leverage AI models to build applications. In this book, author Chip Huyen discusses AI engineering: the process of building applications with readily available foundation models.&lt;br&gt;The book starts with an overview of AI engineering, explaining how it differs from traditional ML engineering and discussing the new AI stack. The more AI is used, the more opportunities there are for catastrophic failures, and therefore, the more important evaluation becomes. This book discusses different approaches to evaluating open-ended models, including the rapidly growing AI-as-a-judge approach.&lt;br&gt;AI application developers will discover how to navigate the AI landscape, including models, datasets, evaluation benchmarks, and the seemingly infinite number of use cases and application patterns. You'll learn a framework for developing an AI application, starting with simple techniques and progressing toward more sophisticated methods, and discover how to efficiently deploy these applications.&lt;/p&gt;
+&lt;p&gt;Understand what AI engineering is and how it differs from traditional machine learning engineering&lt;br&gt;Learn the process for developing an AI application, the challenges at each step, and approaches to address them&lt;br&gt;Explore various model adaptation techniques, including prompt engineering, RAG, fine-tuning, agents, and dataset engineering, and understand how and why they work&lt;br&gt;Examine the bottlenecks for latency and cost when serving foundation models and learn how to overcome them&lt;br&gt;Choose the right model, dataset, evaluation benchmarks, and metrics for your needs&lt;/p&gt;
+&lt;p&gt;Chip Huyen works to accelerate data analytics on GPUs at Voltron Data. Previously, she was with Snorkel AI and NVIDIA, founded an AI infrastructure startup, and taught Machine Learning Systems Design at Stanford. She's the author of the book Designing Machine Learning Systems, an Amazon bestseller in AI.&lt;br&gt;AI Engineering builds upon and is complementary to Designing Machine Learning Systems (O'Reilly).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098166267</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">abM1EQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Advanced Computing</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Business Software</dc:subject>
+        <dc:subject>Natural Language Processing</dc:subject>
+        <dc:subject>Application Software</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-28T02:21:43.372507+00:00"/>
+        <meta name="calibre:title_sort" content="AI Engineering"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

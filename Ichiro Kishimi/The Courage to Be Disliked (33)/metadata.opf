@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62468e94-ac0e-4db3-a414-4a5ab333ad8f</dc:identifier>
+        <dc:title>The Courage to Be Disliked</dc:title>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Ichiro Kishimi</dc:creator>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Fumitake Koga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-08T00:00:00+00:00</dc:date>
+        <dc:description>The New York Times bestselling TikTok sensation with more than 13 million copies sold worldwide, The Courage to Be Disliked is a transformative and practical guide to personal happiness and self-fulfillment.
+Now you can unlock your full potential and free yourself from the shackles of past traumas and societal expectations to find true personal happiness. Based on the theories of renowned psychologist Alfred Adler, this book guides you through the principles of self-forgiveness, self-care, and mind decluttering in a straightforward, easy-to-digest style that’s accessible to all.
+The Courage to Be Disliked unfolds as a dialogue between a philosopher and a young man, who, over the course of five enriching conversations, realizes that each of us is in control of our life’s direction, independent of past burdens and expectations of others.
+Wise, empowering, and profoundly liberating, this book is a life-changing experience that shows you a path to lasting happiness and how to finally be the person you truly want to be. Millions are already benefiting from its teachings—and you can be next.</dc:description>
+        <dc:publisher>Atria Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781668213933</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MO920QEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Free Will &amp; Determinism</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.567034+00:00"/>
+        <meta name="calibre:title_sort" content="Courage to Be Disliked, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

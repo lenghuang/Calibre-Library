@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bf084ee-d901-4e41-8079-b880e38af6dd</dc:identifier>
+        <dc:title>Permission to Come Home</dc:title>
+        <dc:creator opf:file-as="Wang, Jenny" opf:role="aut">Jenny Wang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-03T00:00:00+00:00</dc:date>
+        <dc:description>Strengthen your sense of well-being and embrace empowering new approaches with this invaluable investigation into mental health in the Asian American community.
+Asian Americans are experiencing a racial reckoning regarding their identity, inspiring them to radically reconsider the cultural frameworks that enabled their assimilation into American culture. As Asian Americans investigate the personal and societal effects of longstanding cultural narratives suggesting they take up as little space as possible, their mental health becomes critically important. Yet despite the fact that over 18 million people of Asian descent live in the United States today—they are the racial group least likely to seek out mental health services.
+Permission to Come Home takes Asian Americans on an empowering journey toward reclaiming their mental health. Weaving her personal narrative as a Taiwanese American together with her insights as a clinician and evidence-based tools, Dr. Jenny T. Wang explores a range of life areas that call for attention, offering readers the permission to question, feel, rage, say no, take up space, choose, play, fail, and grieve. Above all, she offers permission to return closer to home, a place of acceptance, belonging, healing, and freedom. For Asian Americans and Diaspora, this book is a necessary road map for the journey to wholeness.
+“Dr. Jenny T. Wang has been an incredible resource for Asian mental health. I believe that her knowledge, presence, and activism for mental health in the Asian American/Immigrant community have been invaluable and groundbreaking. I am so very grateful that she exists.”—Steven Yeun, actor, The Walking Dead and Minari
+.</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781538708026</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ontBEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Mental Health</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Ethnic Studies</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Asian American &amp; Pacific Islander Studies</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.586994+00:00"/>
+        <meta name="calibre:title_sort" content="Permission to Come Home"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75a332f2-9b5a-4bd7-8bb6-034160433e4d</dc:identifier>
+        <dc:title>The Revenge of Geography</dc:title>
+        <dc:creator opf:file-as="Kaplan, Robert D." opf:role="aut">Robert D. Kaplan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;NEW YORK TIMES BESTSELLER • In this “ambitious and challenging” (The New York Review of Books) work, the bestselling author of Monsoon and Balkan Ghosts offers a revelatory prism through which to view global upheavals and to understand what lies ahead for continents and countries around the world.&lt;/p&gt;
+
+&lt;p&gt;In The Revenge of Geography, Robert D. Kaplan builds on the insights, discoveries, and theories of great geographers and geopolitical thinkers of the near and distant past to look back at critical pivots in history and then to look forward at the evolving global scene. Kaplan traces the history of the world’s hot spots by examining their climates, topographies, and proximities to other embattled lands. The Russian steppe’s pitiless climate and limited vegetation bred hard and cruel men bent on destruction, for example, while Nazi geopoliticians distorted geopolitics entirely, calculating that space on the globe used by the British Empire and the Soviet Union could be swallowed by a greater German homeland.&lt;/p&gt;
+
+&lt;p&gt;Kaplan then applies the lessons learned to the present crises in Europe, Russia, China, the Indian subcontinent, Turkey, Iran, and the Arab Middle East. The result is a holistic interpretation of the next cycle of conflict throughout Eurasia. Remarkably, the future can be understood in the context of temperature, land allotment, and other physical certainties: China, able to feed only 23 percent of its people from land that is only 7 percent arable, has sought energy, minerals, and metals from such brutal regimes as Burma, Iran, and Zimbabwe, putting it in moral conflict with the United States. Afghanistan’s porous borders will keep it the principal invasion route into India, and a vital rear base for Pakistan, India’s main enemy. Iran will exploit the advantage of being the only country that straddles both energy-producing areas of the Persian Gulf and the Caspian Sea. Finally, Kaplan posits that the United States might rue engaging in far-flung conflicts with Iraq and Afghanistan rather than tending to its direct neighbor Mexico, which is on the verge of becoming a semifailed state due to drug cartel carnage.&lt;/p&gt;
+
+&lt;p&gt;A brilliant rebuttal to thinkers who suggest that globalism will trump geography, this indispensable work shows how timeless truths and natural facts can help prevent this century’s looming cataclysms.&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679604839</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">njs-hFHxR2sC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Historical Geography</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Human Geography</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.554860+00:00"/>
+        <meta name="calibre:title_sort" content="Revenge of Geography, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

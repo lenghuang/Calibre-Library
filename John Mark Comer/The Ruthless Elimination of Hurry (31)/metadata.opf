@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">436e63cb-7994-4ff2-a90e-b7ada4eb3e12</dc:identifier>
+        <dc:title>The Ruthless Elimination of Hurry</dc:title>
+        <dc:creator opf:file-as="Comer, John Mark" opf:role="aut">John Mark Comer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-29T00:00:00+00:00</dc:date>
+        <dc:description>**ECPA BESTSELLER • A compelling emotional and spiritual case against hurry and in favor of a slower, simpler way of life—from the New York Times bestselling author of Practicing the Way
+“Prophetic, practical, and profoundly life giving . . . provides a way forward that creates hope, hunger, and a vision of a beautiful life. I consider this required reading.”—Jon Tyson, lead pastor of the Church of the City New York and author of Beautiful Resistance**
+“Who am I becoming?”
+That was the question nagging pastor and author John Mark Comer. Outwardly, he appeared successful. But inwardly, things weren’t pretty. So he turned to a trusted mentor for guidance and heard these words:
+“Ruthlessly eliminate hurry from your life. Hurry is the great enemy of the spiritual life.”
+It wasn’t the response he expected, but it was—and continues to be—the answer he needs. Too often we treat the symptoms of toxicity in our modern world instead of trying to pinpoint the cause. A growing number of voices are pointing at hurry, or busyness, as a root of much evil.
+Within the pages of this book, you’ll find a fascinating roadmap to staying emotionally healthy and spiritually alive in the chaos of the modern world.</dc:description>
+        <dc:publisher>PRH Christian Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525653103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self Improvement</dc:subject>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Discipleship</dc:subject>
+        <dc:subject>Inspiration &amp; Meditation</dc:subject>
+        <dc:subject>Christian Life</dc:subject>
+        <dc:subject>Health &amp; Well Being</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Religion &amp; Spirituality</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.526384+00:00"/>
+        <meta name="calibre:title_sort" content="Ruthless Elimination of Hurry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

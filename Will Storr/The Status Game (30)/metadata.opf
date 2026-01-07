@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be49843c-b81f-4d41-9727-87911340a718</dc:identifier>
+        <dc:title>The Status Game</dc:title>
+        <dc:creator opf:file-as="Storr, Will" opf:role="aut">Will Storr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-02T00:00:00+00:00</dc:date>
+        <dc:description>‘Will Storr is one of our best journalists of ideas … The Status Game might be his best yet’ James Marriott, Books of the Year, The Times
+What drives our political and moral beliefs? What makes us like some things and dislike others? What shapes how we behave, and misbehave, in groups? What makes you, you?
+For centuries, philosophers and scholars have described human behaviour in terms of sex, power and money. In The Status Game, bestselling author Will Storr radically turns this thinking on its head by arguing that it is our irrepressible craving for status that ultimately defines who we are.
+From the era of the hunter-gatherer to today, when we exist as workers in the globalised economy and citizens of online worlds, the need for status has always been wired into us. A wealth of research shows that how much of it we possess dramatically affects not only our happiness and wellbeing but also our physical health – and without sufficient status, we become more ill, and live shorter lives. It’s an unconscious obsession that drives the best and worst of us: our innovation, arts and civilisation as well as our murders, wars and genocides. But why is status such an all-consuming prize? What happens if it’s taken away from us? And how can our unquenchable thirst for it explain cults, moral panics, conspiracy theories, the rise of social media and the ‘culture wars’ of today?
+On a breathtaking journey through time and culture, The Status Game offers a sweeping rethink of human psychology that will change how you see others – and how you see yourself.</dc:description>
+        <dc:publisher>HarperCollins UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780008354657</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">0c90356a-c777-47c6-87cd-d11e3ca345f2</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RqL6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/the-status-game-will-storr/1140077565</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08H7Y414K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Cultural &amp; Social</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Interpersonal Relations</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Personality</dc:subject>
+        <dc:subject>Religion &amp; Spirituality</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Social &amp; Cultural Studies</dc:subject>
+        <dc:subject>Health &amp; Well Being</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.514734+00:00"/>
+        <meta name="calibre:title_sort" content="Status Game, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e387c67f-6a19-4f88-9942-997bb5c010e2</dc:identifier>
+        <dc:title>Debt</dc:title>
+        <dc:creator opf:file-as="Graeber, David" opf:role="aut">David Graeber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-09T00:00:00+00:00</dc:date>
+        <dc:description>Now in paperback, the updated and expanded edition: David Graeber’s “fresh . . . fascinating . . . thought-provoking . . . and exceedingly timely” (Financial Times) history of debt
+Here anthropologist David Graeber presents a stunning reversal of conventional wisdom: he shows that before there was money, there was debt. For more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.
+Graeber shows that arguments about debt and debt forgiveness have been at the center of political debates from Italy to China, as well as sparking innumerable insurrections. He also brilliantly demonstrates that the language of the ancient works of law and religion (words like “guilt,” “sin,” and “redemption”) derive in large part from ancient debates about debt, and shape even our most basic ideas of right and wrong. We are still fighting these battles today without knowing it.</dc:description>
+        <dc:publisher>Melville House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781612194202</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Theory of Economics</dc:subject>
+        <dc:subject>Business &amp; Finance</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-07T06:27:24.486364+00:00"/>
+        <meta name="calibre:title_sort" content="Debt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

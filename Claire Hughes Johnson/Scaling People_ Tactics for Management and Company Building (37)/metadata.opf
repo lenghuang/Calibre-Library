@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bde4e558-93c6-4f55-b6d1-25d35123667b</dc:identifier>
+        <dc:title>Scaling People: Tactics for Management and Company Building</dc:title>
+        <dc:creator opf:file-as="Johnson, Claire Hughes" opf:role="aut">Claire Hughes Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;From a Stripe and Google executive, a practical guide to company building and scaling the most important resource it has: its people.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;A leader at both Google and Stripe from their early days, Claire Hughes Johnson has worked with founders and company builders to try to replicate their success. The most common questions she's asked are not about business strategy&amp;#8212;they're about how to scale the operating structures and people systems of a rapidly growing startup. &lt;/p&gt; &lt;p&gt;Scaling People is a practical and empathetic guide to being an effective leader and manager in a high-growth environment. The tactical information it puts forward&amp;#8212;including guidance on crafting foundational documents, strategic and financial planning, hiring and team development, and feedback and performance mechanisms&amp;#8212;can be applied to companies of any size, in any industry. Scaling People includes dozens of pages of worksheets, templates, exercises, and example...</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-01-08T03:58:00.595110+00:00"/>
+        <meta name="calibre:title_sort" content="Scaling People: Tactics for Management and Company Building"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
